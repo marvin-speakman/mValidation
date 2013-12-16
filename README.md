@@ -1,4 +1,6 @@
 mValidation
 ===========
 
-All in one validator using jQuery validate and tooltipster
+One size fits all validator using jQuery validate and tooltipster
+
+Full details to be added
